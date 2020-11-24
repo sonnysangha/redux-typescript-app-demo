@@ -1,0 +1,9 @@
+.todo {
+  padding: 20px;
+  margin: 10px;
+  border: 3px solid blue;
+}
+
+.error {
+  color: var(--error-color);
+}
